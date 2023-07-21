@@ -1,6 +1,6 @@
 ---
 repository:
-  name: alertmanager
+  name: ansible-alertmanager
   description: Ansible role to install and configure Alertmanager
   topics: ansible, role, ansible-role, hacktoberfest
 
